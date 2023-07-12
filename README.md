@@ -14,3 +14,5 @@ Boxes
 Quote
 Sign-up
 Footer
+
+Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/woman-in-blue-floral-top-sitting-while-using-laptop-806835/

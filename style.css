@@ -91,6 +91,7 @@ button a {
     text-align: center;
 }
 
+/* from here... */
 .boxes .container {
     display: flex;
     justify-content: center;
@@ -103,3 +104,10 @@ button a {
 .boxes .inner-box {
     border: 2px solid #3882f6;
 }
+/* ...to here...this code brought up a light gray footer for some reason */
+
+.quotation {
+    background-color: #e5e7eb;
+    padding: 60px 80px;
+}
+

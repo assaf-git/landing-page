@@ -60,3 +60,7 @@ img {
     background-color: #1f2937;
     /* may need to add min-height */
 }
+
+.header {
+    display: flex;
+}

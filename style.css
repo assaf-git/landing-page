@@ -90,3 +90,16 @@ button a {
     color: #1f2937;
     text-align: center;
 }
+
+.boxes .container {
+    display: flex;
+    justify-content: center;
+}
+
+.boxes .box {
+    display: flex;
+}
+
+.boxes .inner-box {
+    border: 2px solid #3882f6;
+}

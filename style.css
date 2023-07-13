@@ -125,3 +125,12 @@ button a {
     color: #1f2937;
     text-align: end;
 }
+
+.offer .card {
+    display: flex;
+    background-color: #3882f6;
+    margin: 60px auto;
+    padding: 30px 80px;
+    border-radius: 4px;
+    justify-content: space-between;
+}

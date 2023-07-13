@@ -70,3 +70,8 @@ img {
     font-weight: 800;
     color: #f9faf8;
 }
+
+.header p {
+    font-size: 18px;
+    color: #e5e7eb;
+}

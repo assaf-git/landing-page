@@ -5,7 +5,6 @@
     padding: 0;
 }
 
-/* may need to change to regular Roboto */
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -42,6 +41,7 @@ img {
 .navbar .logo {
     color: #f9faf8;
     font-size: 24px;
+    /* maybe add font-weight */
 }
 
 .navbar .nav {
@@ -63,4 +63,10 @@ img {
 
 .header {
     display: flex;
+}
+
+.header h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
 }

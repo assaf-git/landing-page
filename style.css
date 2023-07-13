@@ -42,3 +42,7 @@ img {
     color: #f9faf8;
     font-size: 24px;
 }
+
+.navbar .nav {
+    display: flex;
+}

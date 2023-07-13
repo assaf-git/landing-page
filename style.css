@@ -5,6 +5,7 @@
     padding: 0;
 }
 
+/* may need to change to regular Roboto */
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -35,4 +36,9 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.navbar .logo {
+    color: #f9faf8;
+    font-size: 24px;
 }

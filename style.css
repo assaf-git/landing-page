@@ -54,3 +54,9 @@ img {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.header,
+.footer {
+    background-color: #1f2937;
+    /* may need to add min-height */
+}

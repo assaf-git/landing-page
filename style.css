@@ -134,3 +134,20 @@ button a {
     border-radius: 4px;
     justify-content: space-between;
 }
+
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.footer .logo {
+    color: #f9faf8;
+    font-size: 20px;
+}
+
+/* add social media icons here */
+.footer .socials {
+    color: #f9faf8;
+}

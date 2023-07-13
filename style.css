@@ -46,4 +46,11 @@ img {
 
 .navbar .nav {
     display: flex;
+    gap: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }

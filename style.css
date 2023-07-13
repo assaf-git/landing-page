@@ -89,22 +89,38 @@ button a {
     font-weight: 800;
     color: #1f2937;
     text-align: center;
+    margin-top: 20px;
 }
 
-/* from here... */
 .boxes .container {
     display: flex;
     justify-content: center;
 }
 
+/* maybe remove this */
 .boxes .box {
     display: flex;
+    /*gap: 10px;*/
+}
+
+.boxes .mid-box {
+    margin: 0;
 }
 
 .boxes .inner-box {
+    width: 50%;
+    height: auto;
     border: 2px solid #3882f6;
+    border-radius: 4px;
+    margin: 10px 0;
+    padding: 5px;
+    text-align: center;
 }
-/* ...to here...this code brought up a light gray footer for some reason */
+
+.boxes p {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
 .quotation {
     background-color: #e5e7eb;

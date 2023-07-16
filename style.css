@@ -102,6 +102,7 @@ button a {
     border-radius: 4px;
     /* outline: none; */
     border: 1px solid #e5e7eb;
+    white-space: nowrap;
 }
 
 .header .getquote,

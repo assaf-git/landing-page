@@ -207,5 +207,14 @@ button a {
 
 /* add social media icons here */
 .footer .socials {
+    display: flex;
+    gap: 10px;
     color: #f9faf8;
 }
+
+/* .footer fa-fb,
+.footer fa-in,
+footer fa-mail {
+    margin-left: 10px;
+    padding-left: 10px;
+} */
